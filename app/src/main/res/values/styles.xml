@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Holo">
+	</style>
+
+	<style name="textStyle">
+		<item name="android:textSize">60sp</item>
+		<item name="android:textColor">#F2A281</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:layout_weight">1</item>
+		<item name="android:gravity">center</item>
+		<item name="android:layout_margin">3dp</item>
+	</style>
+	
+</resources>

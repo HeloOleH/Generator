@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "D:\\Android\\AndroidStudioProjects\\Generator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\Generator\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 37,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\Generator\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 37,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 49,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\Generator\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 49,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endLine": 6,
+                    "endColumn": 9,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\Generator\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endLine": 14,
+                    "endColumn": 9,
+                    "endOffset": 573
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\Generator\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
